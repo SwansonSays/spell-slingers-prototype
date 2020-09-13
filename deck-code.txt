@@ -1,0 +1,15 @@
+﻿CARDSIZE=6.35,8.89
+
+LinkMulti = Amount
+Link=C:\Users\rpswa\WorkSpace\spell-slingers-prototype\deck-list.xlsx
+
+
+VISUAL=, 10, 10
+FONT=Arial,24,BT,#000000
+;card-name
+TEXT="1-{(NAME)}",[NAME],4.308%,1.679%,91.384%,20.243%,CENTER,WWCENTER
+FONT=Arial,12,T,#000000
+;body-text
+TEXT="1-{(TEXT)}",[TEXT],19.843%,55.597%,60.183%,37.407%,CENTER,CENTER
+IMAGE="1-{(IMAGE)}",[IMAGE],29.634%,27.425%,38.642%,28.545%,0,NP
+ENDVISUAL
