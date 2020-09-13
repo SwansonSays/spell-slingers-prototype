@@ -1,0 +1,1 @@
+All assets either being used to planned to be used
